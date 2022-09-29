@@ -1,2 +1,2 @@
 # BrawlEx
-Soon™
+Introducing the BrawlEx
